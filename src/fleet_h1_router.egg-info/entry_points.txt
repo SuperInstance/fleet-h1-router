@@ -1,0 +1,2 @@
+[console_scripts]
+fleet-h1-router = fleet_h1_router:serve
